@@ -1,0 +1,92 @@
+body{
+  text-align: center;
+ background-color:#F08080;
+}
+
+.name{
+font-family: 'Oswald', sans-serif;
+font-size: 80px;
+}
+
+.job{
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+}
+
+.img-cloud{
+  height: 15%;
+  width: 15%;
+  margin-right: 60%;
+}
+
+.img-sun{
+  height: 15%;
+  width: 15%;
+  margin-left: 60%;
+}
+
+.img-mountain{
+  height: 40%;
+  width: 40%;
+}
+
+.about{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  color: red;
+}
+
+.skill-row{
+width: 80%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.skill-row img{
+  width: 25%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.skill-row h3{
+  font-size: 35px;
+}
+
+.skill-row p{
+  font-size: 25px;
+}
+.left{
+  float: left;
+}
+.abcd{
+  text-align: center;
+  width:50%;
+  margin-left: 25%;
+  font-size: 30px;
+}
+.button{
+  background-color: #F08080;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+footer{
+  margin-top: 60px;
+  background-color: #F0F8FF;
+  padding: 50px 0 200px;
+  border-top-right-radius: 10px;
+  border-top-left-radius:10px;
+}
+footer a{
+  text-decoration:none;
+  font-size: 30px;
+  color: #FF7F50;
+  font-family: 'Nunito', sans-serif;
+  margin: 10px 20px;
+}
